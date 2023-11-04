@@ -1,3 +1,6 @@
+## Today is Saturday
+# this is a pythong script which will create a temperate app to conver from C <> F
+
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk  # You'll need to install the Pillow library
